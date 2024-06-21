@@ -1,5 +1,5 @@
 # Audio Deep Fake Project
-**The project has not still completed, please visit after one month again.**
+**The project has not still completed, please visit after one month again. Partial results are in output folders.**
 
 **Multi-Speaker audio translation**: This Python project provides functionality for real-time multi speakers audio translation using two different methods. It utilizes speech recognition, translation, and text-to-speech libraries to enable translation between different languages. This code works on python 3.10, We have not tested it on other versions. Some older versions will have issues.
 
